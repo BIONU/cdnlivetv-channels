@@ -2,7 +2,7 @@ name: Fetch CDN Live TV Channels
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # ทุก 6 ชั่วโมง
+    - cron: "0 * * * *"   # ทุก 1  ชั่วโมง
   workflow_dispatch:         # กดรันเองได้จาก GitHub UI
 
 jobs:
