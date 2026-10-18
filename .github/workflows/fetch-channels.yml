@@ -1,0 +1,46 @@
+name: Fetch CDN Live TV Channels
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # ทุก 6 ชั่วโมง
+  workflow_dispatch:         # กดรันเองได้จาก GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # จำเป็นสำหรับ commit กลับเข้า repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run fetch script
+        run: python scripts/fetch_formatted.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update channels data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+            git push
+          fi
+
+      - name: Upload as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: channels-data
+          path: data/
+          retention-days: 30
