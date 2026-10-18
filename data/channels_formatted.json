@@ -3,7 +3,7 @@
     "name": "CDN Live TV",
     "website": "https://cdnlivetv.tv",
     "source_api": "https://api.cdnlivetv.tv/api/v1/channels/?user=cdnlivetv&plan=free",
-    "fetched_at": "2026-10-18T03:33:23.734847+00:00",
+    "fetched_at": "2026-10-18T04:16:10.551995+00:00",
     "total_categories": 31,
     "total_channels": 417,
     "skipped_channels": 0
@@ -137,7 +137,7 @@
   "channels": [
     {
       "category": "Argentina",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn",
       "name": "ESPN",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/ar/espn.webp",
@@ -145,7 +145,7 @@
     },
     {
       "category": "Argentina",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-premium",
       "name": "ESPN Premium",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/ar/espn-premium.webp",
@@ -153,7 +153,7 @@
     },
     {
       "category": "Argentina",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-2",
       "name": "FOX Sports 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/ar/fox-sports-2.webp",
@@ -161,7 +161,7 @@
     },
     {
       "category": "Argentina",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tyc-sports",
       "name": "Tyc Sports",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/ar/tyc-sports.webp",
@@ -169,7 +169,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-1",
       "name": "beIN SPORTS 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/bein-sports-1.webp",
@@ -177,7 +177,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-501",
       "name": "Fox Sports 501",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-501.webp",
@@ -185,7 +185,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-501-cricket",
       "name": "Fox Sports 501 Cricket",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-501-cricket.webp",
@@ -193,7 +193,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-502",
       "name": "Fox Sports 502",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-502.webp",
@@ -201,7 +201,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-503",
       "name": "Fox Sports 503",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-503.webp",
@@ -209,7 +209,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-505",
       "name": "Fox Sports 505",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-505.webp",
@@ -217,7 +217,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-506",
       "name": "Fox Sports 506",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-506.webp",
@@ -225,7 +225,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-507",
       "name": "Fox Sports 507",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-507.webp",
@@ -233,7 +233,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-news",
       "name": "Fox Sports News",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/fox-sports-news.webp",
@@ -241,7 +241,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-10",
       "name": "Stan Sport 10",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-10.webp",
@@ -249,7 +249,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-11",
       "name": "Stan Sport 11",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-11.webp",
@@ -257,7 +257,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-12",
       "name": "Stan Sport 12",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-12.webp",
@@ -265,7 +265,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-13",
       "name": "Stan Sport 13",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-13.webp",
@@ -273,7 +273,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-14",
       "name": "Stan Sport 14",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-14.webp",
@@ -281,7 +281,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-15",
       "name": "Stan Sport 15",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-15.webp",
@@ -289,7 +289,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-16",
       "name": "Stan Sport 16",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-16.webp",
@@ -297,7 +297,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-18",
       "name": "Stan Sport 18",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-18.webp",
@@ -305,7 +305,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-19",
       "name": "Stan Sport 19",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-19.webp",
@@ -313,7 +313,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-2",
       "name": "Stan Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-2.webp",
@@ -321,7 +321,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-3",
       "name": "Stan Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-3.webp",
@@ -329,7 +329,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-4",
       "name": "Stan Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-4.webp",
@@ -337,7 +337,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-5",
       "name": "Stan Sport 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-5.webp",
@@ -345,7 +345,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-6",
       "name": "Stan Sport 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-6.webp",
@@ -353,7 +353,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-7",
       "name": "Stan Sport 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-7.webp",
@@ -361,7 +361,7 @@
     },
     {
       "category": "Australia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "stan-sport-9",
       "name": "Stan Sport 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/australia/stan-sport-9.webp",
@@ -369,7 +369,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-1",
       "name": "Sky Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-1.webp",
@@ -377,7 +377,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-10",
       "name": "Sky Sport 10",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-10.webp",
@@ -385,7 +385,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-2",
       "name": "Sky Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-2.webp",
@@ -393,7 +393,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-3",
       "name": "Sky Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-3.webp",
@@ -401,7 +401,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-4",
       "name": "Sky Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-4.webp",
@@ -409,7 +409,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-5",
       "name": "Sky Sport 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-5.webp",
@@ -417,7 +417,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-6",
       "name": "Sky Sport 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-6.webp",
@@ -425,7 +425,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-7",
       "name": "Sky Sport 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-7.webp",
@@ -433,7 +433,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-8",
       "name": "Sky Sport 8",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-8.webp",
@@ -441,7 +441,7 @@
     },
     {
       "category": "Austria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-9",
       "name": "Sky Sport 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/austria/sky-sport-9.webp",
@@ -449,7 +449,7 @@
     },
     {
       "category": "Belgium",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canvas",
       "name": "Canvas",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/belgium/canvas.webp",
@@ -457,7 +457,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "combate",
       "name": "Combate",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/combate.webp",
@@ -465,7 +465,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn",
       "name": "ESPN",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn.webp",
@@ -473,7 +473,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-2",
       "name": "ESPN 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2.webp",
@@ -481,7 +481,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-4",
       "name": "ESPN 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4.webp",
@@ -489,7 +489,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premiere-1",
       "name": "Premiere 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-1.webp",
@@ -497,7 +497,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premiere-2",
       "name": "Premiere 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-2.webp",
@@ -505,7 +505,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premiere-3",
       "name": "Premiere 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-3.webp",
@@ -513,7 +513,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premiere-4",
       "name": "Premiere 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-4.webp",
@@ -521,7 +521,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premiere-5",
       "name": "Premiere 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-5.webp",
@@ -529,7 +529,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premiere-6",
       "name": "Premiere 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-6.webp",
@@ -537,7 +537,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premiere-7",
       "name": "Premiere 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-7.webp",
@@ -545,7 +545,7 @@
     },
     {
       "category": "Brazil",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt",
       "name": "TNT",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/brazil/tnt.webp",
@@ -553,7 +553,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "btv",
       "name": "bTV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/btv.webp",
@@ -561,7 +561,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "btv-action",
       "name": "bTV Action",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/btv-action.webp",
@@ -569,7 +569,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "diema-sport-2",
       "name": "Diema Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sport-2.webp",
@@ -577,7 +577,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "diema-sport-3",
       "name": "Diema Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/diema-sport-3.webp",
@@ -585,7 +585,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "euro-sport-1",
       "name": "Euro Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/euro-sport-1.webp",
@@ -593,7 +593,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "euro-sport-2",
       "name": "Euro Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/euro-sport-2.webp",
@@ -601,7 +601,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "max-sport-1",
       "name": "Max Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-1.webp",
@@ -609,7 +609,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "max-sport-2",
       "name": "Max Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-2.webp",
@@ -617,7 +617,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "max-sport-3",
       "name": "Max Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-3.webp",
@@ -625,7 +625,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "max-sport-4",
       "name": "Max Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/max-sport-4.webp",
@@ -633,7 +633,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nova-sport",
       "name": "Nova Sport",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/nova-sport.webp",
@@ -641,7 +641,7 @@
     },
     {
       "category": "Bulgaria",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "ring",
       "name": "Ring",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/bulgaria/ring.webp",
@@ -649,7 +649,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cp24",
       "name": "CP24",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/cp24.webp",
@@ -657,7 +657,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "rds",
       "name": "RDS",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds.webp",
@@ -665,7 +665,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sportsnet-360",
       "name": "Sportsnet 360",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-360.webp",
@@ -673,7 +673,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sportsnet-east",
       "name": "Sportsnet East",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-east.webp",
@@ -681,7 +681,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sportsnet-one",
       "name": "Sportsnet One",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-one.webp",
@@ -689,7 +689,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sportsnet-ontario",
       "name": "Sportsnet Ontario",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-ontario.webp",
@@ -697,7 +697,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sportsnet-west",
       "name": "Sportsnet West",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-west.webp",
@@ -705,7 +705,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sportsnet-world",
       "name": "Sportsnet World",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/sportsnet-world.webp",
@@ -713,7 +713,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tsn-1",
       "name": "TSN 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-1.webp",
@@ -721,7 +721,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tsn-2",
       "name": "TSN 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-2.webp",
@@ -729,7 +729,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tsn-3",
       "name": "TSN 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-3.webp",
@@ -737,7 +737,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tsn-4",
       "name": "TSN 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-4.webp",
@@ -745,7 +745,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tsn-5",
       "name": "TSN 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/tsn-5.webp",
@@ -753,7 +753,7 @@
     },
     {
       "category": "Canada",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tva-sports",
       "name": "TVA Sports",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports.webp",
@@ -761,7 +761,7 @@
     },
     {
       "category": "Chile",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt-sports",
       "name": "TNT Sports",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/cl/tnt-sports.webp",
@@ -769,7 +769,7 @@
     },
     {
       "category": "Cyprus",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cytavision-sports-1",
       "name": "Cytavision Sports 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-1.webp",
@@ -777,7 +777,7 @@
     },
     {
       "category": "Cyprus",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cytavision-sports-2",
       "name": "Cytavision Sports 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-2.webp",
@@ -785,7 +785,7 @@
     },
     {
       "category": "Cyprus",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cytavision-sports-3",
       "name": "Cytavision Sports 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-3.webp",
@@ -793,7 +793,7 @@
     },
     {
       "category": "Cyprus",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cytavision-sports-4",
       "name": "Cytavision Sports 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-4.webp",
@@ -801,7 +801,7 @@
     },
     {
       "category": "Cyprus",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cytavision-sports-5",
       "name": "Cytavision Sports 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-5.webp",
@@ -809,7 +809,7 @@
     },
     {
       "category": "Cyprus",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cytavision-sports-6",
       "name": "Cytavision Sports 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-6.webp",
@@ -817,7 +817,7 @@
     },
     {
       "category": "Cyprus",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cytavision-sports-7",
       "name": "Cytavision Sports 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-7.webp",
@@ -825,7 +825,7 @@
     },
     {
       "category": "Czech Republic",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-sport",
       "name": "Canal Sport",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/canal-sport.webp",
@@ -833,7 +833,7 @@
     },
     {
       "category": "Czech Republic",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nova-sport-3",
       "name": "Nova Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sport-3.webp",
@@ -841,7 +841,7 @@
     },
     {
       "category": "Czech Republic",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nova-sport-5",
       "name": "Nova Sport 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/czech-republic/nova-sport-5.webp",
@@ -849,7 +849,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-9",
       "name": "Canal 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/canal-9.webp",
@@ -857,7 +857,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dr1",
       "name": "DR1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/dr1.webp",
@@ -865,7 +865,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dr2",
       "name": "DR2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/dr2.webp",
@@ -873,7 +873,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "see",
       "name": "See",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/see.webp",
@@ -881,7 +881,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv2",
       "name": "TV2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2.webp",
@@ -889,7 +889,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv2-bornholm",
       "name": "TV2 Bornholm",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-bornholm.webp",
@@ -897,7 +897,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv2-sport",
       "name": "TV2 Sport",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-sport.webp",
@@ -905,7 +905,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv2-sport-x",
       "name": "TV2 Sport X",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv2-sport-x.webp",
@@ -913,7 +913,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv3-max",
       "name": "TV3 Max",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv3-max.webp",
@@ -921,7 +921,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv3-puls",
       "name": "TV3 Puls",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv3-puls.webp",
@@ -929,7 +929,7 @@
     },
     {
       "category": "Denmark",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv3-sport",
       "name": "TV3 Sport",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/denmark/tv3-sport.webp",
@@ -937,7 +937,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-1",
       "name": "beIN SPORTS 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1.webp",
@@ -945,7 +945,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-2",
       "name": "beIN SPORTS 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-2.webp",
@@ -953,7 +953,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-3",
       "name": "beIN SPORTS 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-3.webp",
@@ -961,7 +961,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-max-10",
       "name": "beIN SPORTS MAX 10",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-10.webp",
@@ -969,7 +969,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-max-4",
       "name": "beIN SPORTS MAX 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4.webp",
@@ -977,7 +977,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-max-5",
       "name": "beIN SPORTS MAX 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-5.webp",
@@ -985,7 +985,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-max-6",
       "name": "beIN SPORTS MAX 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-6.webp",
@@ -993,7 +993,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-max-7",
       "name": "beIN SPORTS MAX 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-7.webp",
@@ -1001,7 +1001,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-max-8",
       "name": "beIN SPORTS MAX 8",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-8.webp",
@@ -1009,7 +1009,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-max-9",
       "name": "beIN SPORTS MAX 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-9.webp",
@@ -1017,7 +1017,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal",
       "name": "Canal",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal.webp",
@@ -1025,7 +1025,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-foot",
       "name": "Canal Foot",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-foot.webp",
@@ -1033,7 +1033,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-10",
       "name": "Canal Live 10",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-10.webp",
@@ -1041,7 +1041,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-11",
       "name": "Canal Live 11",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-11.webp",
@@ -1049,7 +1049,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-3",
       "name": "Canal Live 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-3.webp",
@@ -1057,7 +1057,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-4",
       "name": "Canal Live 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-4.webp",
@@ -1065,7 +1065,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-5",
       "name": "Canal Live 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-5.webp",
@@ -1073,7 +1073,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-6",
       "name": "Canal Live 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-6.webp",
@@ -1081,7 +1081,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-7",
       "name": "Canal Live 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-7.webp",
@@ -1089,7 +1089,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-8",
       "name": "Canal Live 8",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-8.webp",
@@ -1097,7 +1097,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-live-9",
       "name": "Canal Live 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-live-9.webp",
@@ -1105,7 +1105,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-premier-league",
       "name": "Canal Premier League",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-premier-league.webp",
@@ -1113,7 +1113,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-sport",
       "name": "Canal Sport",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-sport.webp",
@@ -1121,7 +1121,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-sport360",
       "name": "Canal Sport360",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/canal-sport360.webp",
@@ -1129,7 +1129,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "rmc-sport-1",
       "name": "RMC Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-1.webp",
@@ -1137,7 +1137,7 @@
     },
     {
       "category": "France",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "rmc-sport-2",
       "name": "RMC Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/france/rmc-sport-2.webp",
@@ -1145,7 +1145,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "das-erste",
       "name": "Das Erste",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/das-erste.webp",
@@ -1153,7 +1153,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-1",
       "name": "DAZN 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-1.webp",
@@ -1161,7 +1161,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-2",
       "name": "DAZN 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/dazn-2.webp",
@@ -1169,7 +1169,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "rtl",
       "name": "RTL",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/rtl.webp",
@@ -1177,7 +1177,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-1",
       "name": "Sky Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-1.webp",
@@ -1185,7 +1185,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-2",
       "name": "Sky Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-2.webp",
@@ -1193,7 +1193,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-3",
       "name": "Sky Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-3.webp",
@@ -1201,7 +1201,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-4",
       "name": "Sky Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-4.webp",
@@ -1209,7 +1209,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-5",
       "name": "Sky Sport 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-5.webp",
@@ -1217,7 +1217,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-1",
       "name": "Sky Sport Bundesliga 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-1.webp",
@@ -1225,7 +1225,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-10",
       "name": "Sky Sport Bundesliga 10",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-10.webp",
@@ -1233,7 +1233,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-2",
       "name": "Sky Sport Bundesliga 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-2.webp",
@@ -1241,7 +1241,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-3",
       "name": "Sky Sport Bundesliga 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-3.webp",
@@ -1249,7 +1249,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-4",
       "name": "Sky Sport Bundesliga 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-4.webp",
@@ -1257,7 +1257,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-5",
       "name": "Sky Sport Bundesliga 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-5.webp",
@@ -1265,7 +1265,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-6",
       "name": "Sky Sport Bundesliga 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-6.webp",
@@ -1273,7 +1273,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-7",
       "name": "Sky Sport Bundesliga 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-7.webp",
@@ -1281,7 +1281,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-8",
       "name": "Sky Sport Bundesliga 8",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-8.webp",
@@ -1289,7 +1289,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-bundesliga-9",
       "name": "Sky Sport Bundesliga 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-bundesliga-9.webp",
@@ -1297,7 +1297,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-mix",
       "name": "Sky Sport Mix",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix.webp",
@@ -1305,7 +1305,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-premier-league",
       "name": "Sky Sport Premier League",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-premier-league.webp",
@@ -1313,7 +1313,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-tennis",
       "name": "Sky Sport Tennis",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-tennis.webp",
@@ -1321,7 +1321,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-top-event",
       "name": "Sky Sport Top Event",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-top-event.webp",
@@ -1329,7 +1329,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sportdigital-fussball",
       "name": "SportDigital Fussball",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/sportdigital-fussball.webp",
@@ -1337,7 +1337,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "zdf",
       "name": "ZDF",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/zdf.webp",
@@ -1345,7 +1345,7 @@
     },
     {
       "category": "Germany",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "zdf-info",
       "name": "ZDF Info",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/germany/zdf-info.webp",
@@ -1353,7 +1353,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cosmote-sport-1",
       "name": "Cosmote Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-1.webp",
@@ -1361,7 +1361,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cosmote-sport-4",
       "name": "Cosmote Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4.webp",
@@ -1369,7 +1369,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cosmote-sport-5",
       "name": "Cosmote Sport 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-5.webp",
@@ -1377,7 +1377,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cosmote-sport-6",
       "name": "Cosmote Sport 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-6.webp",
@@ -1385,7 +1385,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cosmote-sport-7",
       "name": "Cosmote Sport 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-7.webp",
@@ -1393,7 +1393,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cosmote-sport-8",
       "name": "Cosmote Sport 8",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-8.webp",
@@ -1401,7 +1401,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cosmote-sport-9",
       "name": "Cosmote Sport 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-9.webp",
@@ -1409,7 +1409,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nova-sports-news",
       "name": "Nova Sports News",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-news.webp",
@@ -1417,7 +1417,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nova-sports-prime",
       "name": "Nova Sports Prime",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-prime.webp",
@@ -1425,7 +1425,7 @@
     },
     {
       "category": "Greece",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nova-sports-start",
       "name": "Nova Sports Start",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/greece/nova-sports-start.webp",
@@ -1433,7 +1433,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "one-1",
       "name": "ONE 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/one-1.webp",
@@ -1441,7 +1441,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "one-2",
       "name": "ONE 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/one-2.webp",
@@ -1449,7 +1449,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-1",
       "name": "Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1.webp",
@@ -1457,7 +1457,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-2",
       "name": "Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2.webp",
@@ -1465,7 +1465,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-3",
       "name": "Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-3.webp",
@@ -1473,7 +1473,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-4",
       "name": "Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-4.webp",
@@ -1481,7 +1481,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-5-gold",
       "name": "Sport 5 Gold",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-gold.webp",
@@ -1489,7 +1489,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-5-live",
       "name": "Sport 5 Live",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live.webp",
@@ -1497,7 +1497,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-5-plus",
       "name": "Sport 5 Plus",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-plus.webp",
@@ -1505,7 +1505,7 @@
     },
     {
       "category": "Israel",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-5-stars",
       "name": "Sport 5 Stars",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-stars.webp",
@@ -1513,7 +1513,7 @@
     },
     {
       "category": "Italy",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-5",
       "name": "Canal 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/italy/canal-5.webp",
@@ -1521,7 +1521,7 @@
     },
     {
       "category": "Italy",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "euro-sport-1",
       "name": "Euro Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.webp",
@@ -1529,7 +1529,7 @@
     },
     {
       "category": "Italy",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "italia-1",
       "name": "Italia 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.webp",
@@ -1537,7 +1537,7 @@
     },
     {
       "category": "Italy",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-golf",
       "name": "Sky Sport Golf",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-golf.webp",
@@ -1545,7 +1545,7 @@
     },
     {
       "category": "Italy",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-max",
       "name": "Sky Sport Max",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-max.webp",
@@ -1553,7 +1553,7 @@
     },
     {
       "category": "Mexico",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-2",
       "name": "ESPN 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-2.webp",
@@ -1561,7 +1561,7 @@
     },
     {
       "category": "Mexico",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-3",
       "name": "ESPN 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-3.webp",
@@ -1569,7 +1569,7 @@
     },
     {
       "category": "Mexico",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-4",
       "name": "ESPN 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/mexico/espn-4.webp",
@@ -1577,7 +1577,7 @@
     },
     {
       "category": "Mexico",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-2",
       "name": "FOX Sports 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/mexico/fox-sports-2.webp",
@@ -1585,7 +1585,7 @@
     },
     {
       "category": "Netherlands",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn",
       "name": "ESPN",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn.webp",
@@ -1593,7 +1593,7 @@
     },
     {
       "category": "Netherlands",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-2",
       "name": "ESPN 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-2.webp",
@@ -1601,7 +1601,7 @@
     },
     {
       "category": "Netherlands",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-3",
       "name": "ESPN 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-3.webp",
@@ -1609,7 +1609,7 @@
     },
     {
       "category": "Netherlands",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "ziggo-sport-2",
       "name": "Ziggo Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-2.webp",
@@ -1617,7 +1617,7 @@
     },
     {
       "category": "Netherlands",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "ziggo-sport-3",
       "name": "Ziggo Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3.webp",
@@ -1625,7 +1625,7 @@
     },
     {
       "category": "Netherlands",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "ziggo-sport-4",
       "name": "Ziggo Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-4.webp",
@@ -1633,7 +1633,7 @@
     },
     {
       "category": "Netherlands",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "ziggo-sport-5",
       "name": "Ziggo Sport 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5.webp",
@@ -1641,7 +1641,7 @@
     },
     {
       "category": "Netherlands",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "ziggo-sport-6",
       "name": "Ziggo Sport 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-6.webp",
@@ -1649,7 +1649,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-1",
       "name": "Sky Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-1.webp",
@@ -1657,7 +1657,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-2",
       "name": "Sky Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-2.webp",
@@ -1665,7 +1665,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-3",
       "name": "Sky Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-3.webp",
@@ -1673,7 +1673,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-4",
       "name": "Sky Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-4.webp",
@@ -1681,7 +1681,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-5",
       "name": "Sky Sport 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-5.webp",
@@ -1689,7 +1689,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-6",
       "name": "Sky Sport 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-6.webp",
@@ -1697,7 +1697,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-7",
       "name": "Sky Sport 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-7.webp",
@@ -1705,7 +1705,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-8",
       "name": "Sky Sport 8",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-8.webp",
@@ -1713,7 +1713,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-9",
       "name": "Sky Sport 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-9.webp",
@@ -1721,7 +1721,7 @@
     },
     {
       "category": "New Zealand",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sport-select",
       "name": "Sky Sport Select",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/new-zealand/sky-sport-select.webp",
@@ -1729,7 +1729,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-360",
       "name": "Canal 360",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-360.webp",
@@ -1737,7 +1737,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-premium",
       "name": "Canal Premium",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-premium.webp",
@@ -1745,7 +1745,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-sport-2",
       "name": "Canal Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-2.webp",
@@ -1753,7 +1753,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-sport-3",
       "name": "Canal Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-3.webp",
@@ -1761,7 +1761,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-sport-4",
       "name": "Canal Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-4.webp",
@@ -1769,7 +1769,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-sport-5",
       "name": "Canal Sport 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-5.webp",
@@ -1777,7 +1777,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "eleven-sports-1",
       "name": "Eleven Sports 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sports-1.webp",
@@ -1785,7 +1785,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "eleven-sports-2",
       "name": "Eleven Sports 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sports-2.webp",
@@ -1793,7 +1793,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "eleven-sports-3",
       "name": "Eleven Sports 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sports-3.webp",
@@ -1801,7 +1801,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "eleven-sports-4",
       "name": "Eleven Sports 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/eleven-sports-4.webp",
@@ -1809,7 +1809,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "polsat",
       "name": "Polsat",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat.webp",
@@ -1817,7 +1817,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "polsat-news",
       "name": "Polsat News",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-news.webp",
@@ -1825,7 +1825,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "polsat-sport-2",
       "name": "Polsat Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-2.webp",
@@ -1833,7 +1833,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "polsat-sport-3",
       "name": "Polsat Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3.webp",
@@ -1841,7 +1841,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "polsat-sport-premium-1",
       "name": "Polsat Sport Premium 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-1.webp",
@@ -1849,7 +1849,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "polsat-sport-premium-2",
       "name": "Polsat Sport Premium 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-premium-2.webp",
@@ -1857,7 +1857,7 @@
     },
     {
       "category": "Poland",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tvp-sport",
       "name": "TVP Sport",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/poland/tvp-sport.webp",
@@ -1865,7 +1865,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "benfica-tv",
       "name": "Benfica TV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/benfica-tv.webp",
@@ -1873,7 +1873,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "canal-11",
       "name": "Canal 11",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/canal-11.webp",
@@ -1881,7 +1881,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-2",
       "name": "DAZN 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-2.webp",
@@ -1889,7 +1889,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-3",
       "name": "DAZN 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-3.webp",
@@ -1897,7 +1897,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-4",
       "name": "DAZN 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-4.webp",
@@ -1905,7 +1905,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-5",
       "name": "DAZN 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-5.webp",
@@ -1913,7 +1913,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-6",
       "name": "DAZN 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/dazn-6.webp",
@@ -1921,7 +1921,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "porto-canal",
       "name": "Porto Canal",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/porto-canal.webp",
@@ -1929,7 +1929,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "rtp-1",
       "name": "RTP 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/rtp-1.webp",
@@ -1937,7 +1937,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sic",
       "name": "SIC",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sic.webp",
@@ -1945,7 +1945,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-tv",
       "name": "Sport TV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv.webp",
@@ -1953,7 +1953,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-tv-1",
       "name": "Sport TV 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1.webp",
@@ -1961,7 +1961,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-tv-2",
       "name": "Sport TV 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-2.webp",
@@ -1969,7 +1969,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-tv-3",
       "name": "Sport TV 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-3.webp",
@@ -1977,7 +1977,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-tv-4",
       "name": "Sport TV 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-4.webp",
@@ -1985,7 +1985,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-tv-5",
       "name": "Sport TV 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-5.webp",
@@ -1993,7 +1993,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-tv-6",
       "name": "Sport TV 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-6.webp",
@@ -2001,7 +2001,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sport-tv-7",
       "name": "Sport TV 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-7.webp",
@@ -2009,7 +2009,7 @@
     },
     {
       "category": "Portugal",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tvi",
       "name": "TVI",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/portugal/tvi.webp",
@@ -2017,7 +2017,7 @@
     },
     {
       "category": "Romania",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "digi-sport-1",
       "name": "Digi Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-1.webp",
@@ -2025,7 +2025,7 @@
     },
     {
       "category": "Romania",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "digi-sport-2",
       "name": "Digi Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-2.webp",
@@ -2033,7 +2033,7 @@
     },
     {
       "category": "Romania",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "digi-sport-3",
       "name": "Digi Sport 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-3.webp",
@@ -2041,7 +2041,7 @@
     },
     {
       "category": "Romania",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "digi-sport-4",
       "name": "Digi Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/romania/digi-sport-4.webp",
@@ -2049,7 +2049,7 @@
     },
     {
       "category": "Romania",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "prima-sport-1",
       "name": "Prima Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-1.webp",
@@ -2057,7 +2057,7 @@
     },
     {
       "category": "Romania",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "prima-sport-4",
       "name": "Prima Sport 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/romania/prima-sport-4.webp",
@@ -2065,7 +2065,7 @@
     },
     {
       "category": "Russia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "match-football-1",
       "name": "Match Football 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-1.webp",
@@ -2073,7 +2073,7 @@
     },
     {
       "category": "Russia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "match-football-2",
       "name": "Match Football 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-2.webp",
@@ -2081,7 +2081,7 @@
     },
     {
       "category": "Russia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "match-football-3",
       "name": "Match Football 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-3.webp",
@@ -2089,7 +2089,7 @@
     },
     {
       "category": "Russia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "match-premier",
       "name": "Match Premier",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier.webp",
@@ -2097,7 +2097,7 @@
     },
     {
       "category": "Russia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "match-tv",
       "name": "Match TV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-tv.webp",
@@ -2105,7 +2105,7 @@
     },
     {
       "category": "Saudi Arabia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-4",
       "name": "beIN SPORTS 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-4.webp",
@@ -2113,7 +2113,7 @@
     },
     {
       "category": "Saudi Arabia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-5",
       "name": "beIN SPORTS 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-5.webp",
@@ -2121,7 +2121,7 @@
     },
     {
       "category": "Saudi Arabia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-6",
       "name": "beIN SPORTS 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-6.webp",
@@ -2129,7 +2129,7 @@
     },
     {
       "category": "Saudi Arabia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-7",
       "name": "beIN SPORTS 7",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-7.webp",
@@ -2137,7 +2137,7 @@
     },
     {
       "category": "Saudi Arabia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-8",
       "name": "beIN SPORTS 8",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-8.webp",
@@ -2145,7 +2145,7 @@
     },
     {
       "category": "Saudi Arabia",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-9",
       "name": "beIN SPORTS 9",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-9.webp",
@@ -2153,7 +2153,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-n",
       "name": "beIN SPORTS N",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/bein-sports-n.webp",
@@ -2161,7 +2161,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-xtra",
       "name": "beIN SPORTS XTRA",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/bein-sports-xtra.webp",
@@ -2169,7 +2169,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-f1",
       "name": "DAZN F1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-f1.webp",
@@ -2177,7 +2177,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-laliga",
       "name": "DAZN LaLiga",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga.webp",
@@ -2185,7 +2185,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-laliga-2",
       "name": "DAZN LaLiga 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga-2.webp",
@@ -2193,7 +2193,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "movistar-deportes-1",
       "name": "Movistar Deportes 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-1.webp",
@@ -2201,7 +2201,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "movistar-deportes-2",
       "name": "Movistar Deportes 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-2.webp",
@@ -2209,7 +2209,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "movistar-deportes-4",
       "name": "Movistar Deportes 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-deportes-4.webp",
@@ -2217,7 +2217,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "movistar-golf",
       "name": "Movistar Golf",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-golf.webp",
@@ -2225,7 +2225,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "real-madrid-tv",
       "name": "Real Madrid TV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/real-madrid-tv.webp",
@@ -2233,7 +2233,7 @@
     },
     {
       "category": "Spain",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "teledeporte",
       "name": "Teledeporte",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/spain/teledeporte.webp",
@@ -2241,7 +2241,7 @@
     },
     {
       "category": "Sweden",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv4-sportkanalen",
       "name": "TV4 Sportkanalen",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-sportkanalen.webp",
@@ -2249,7 +2249,7 @@
     },
     {
       "category": "Sweden",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "v-sport-1",
       "name": "V Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/sweden/v-sport-1.webp",
@@ -2257,7 +2257,7 @@
     },
     {
       "category": "Sweden",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "v-sport-extra",
       "name": "V Sport Extra",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/sweden/v-sport-extra.webp",
@@ -2265,7 +2265,7 @@
     },
     {
       "category": "Sweden",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "v-sport-football",
       "name": "V Sport Football",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/sweden/v-sport-football.webp",
@@ -2273,7 +2273,7 @@
     },
     {
       "category": "Sweden",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "v-sport-motor",
       "name": "V Sport Motor",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/sweden/v-sport-motor.webp",
@@ -2281,7 +2281,7 @@
     },
     {
       "category": "Sweden",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "v-sport-premium",
       "name": "V Sport Premium",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/sweden/v-sport-premium.webp",
@@ -2289,7 +2289,7 @@
     },
     {
       "category": "Sweden",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "v-sport-ultra",
       "name": "V Sport Ultra",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/sweden/v-sport-ultra.webp",
@@ -2297,7 +2297,7 @@
     },
     {
       "category": "Turkey",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-1",
       "name": "beIN SPORTS 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/bein-sports-1.webp",
@@ -2305,7 +2305,7 @@
     },
     {
       "category": "Turkey",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-2",
       "name": "beIN SPORTS 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/bein-sports-2.webp",
@@ -2313,7 +2313,7 @@
     },
     {
       "category": "Turkey",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-3",
       "name": "beIN SPORTS 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/bein-sports-3.webp",
@@ -2321,7 +2321,7 @@
     },
     {
       "category": "Turkey",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-4",
       "name": "beIN SPORTS 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/bein-sports-4.webp",
@@ -2329,7 +2329,7 @@
     },
     {
       "category": "Turkey",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "trt-1",
       "name": "TRT 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-1.webp",
@@ -2337,7 +2337,7 @@
     },
     {
       "category": "Turkey",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "trt-2",
       "name": "TRT 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-2.webp",
@@ -2345,7 +2345,7 @@
     },
     {
       "category": "Turkey",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "trt-3",
       "name": "TRT 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-3.webp",
@@ -2353,7 +2353,7 @@
     },
     {
       "category": "Turkey",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "trt-spor",
       "name": "TRT Spor",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-spor.webp",
@@ -2361,7 +2361,7 @@
     },
     {
       "category": "United Arab Emirates",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "abu-dhabi-sports-1",
       "name": "Abu Dhabi Sports 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/ae/abu-dhabi-sports-1.webp",
@@ -2369,7 +2369,7 @@
     },
     {
       "category": "United Arab Emirates",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "starzplay-sports-1",
       "name": "Starzplay Sports 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/ae/starzplay-sports-1.webp",
@@ -2377,7 +2377,7 @@
     },
     {
       "category": "United Arab Emirates",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "starzplay-sports-2",
       "name": "Starzplay Sports 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/ae/starzplay-sports-2.webp",
@@ -2385,7 +2385,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bbc-four",
       "name": "BBC Four",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-four.webp",
@@ -2393,7 +2393,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bbc-one",
       "name": "BBC One",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-one.webp",
@@ -2401,7 +2401,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bbc-three",
       "name": "BBC Three",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-three.webp",
@@ -2409,7 +2409,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bbc-two",
       "name": "BBC Two",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two.webp",
@@ -2417,7 +2417,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "channel-4",
       "name": "Channel 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/channel-4.webp",
@@ -2425,7 +2425,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "channel-5",
       "name": "Channel 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/channel-5.webp",
@@ -2433,7 +2433,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "dazn-1",
       "name": "DAZN 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/dazn-1.webp",
@@ -2441,7 +2441,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "euro-sport-1",
       "name": "Euro Sport 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-1.webp",
@@ -2449,7 +2449,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "euro-sport-2",
       "name": "Euro Sport 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/euro-sport-2.webp",
@@ -2457,7 +2457,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "itv-1",
       "name": "ITV 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-1.webp",
@@ -2465,7 +2465,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "itv-2",
       "name": "ITV 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-2.webp",
@@ -2473,7 +2473,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "itv-3",
       "name": "ITV 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-3.webp",
@@ -2481,7 +2481,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "itv-4",
       "name": "ITV 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/itv-4.webp",
@@ -2489,7 +2489,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "laliga-tv",
       "name": "LaLiga TV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/laliga-tv.webp",
@@ -2497,7 +2497,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premier-sports-1",
       "name": "Premier Sports 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-1.webp",
@@ -2505,7 +2505,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "premier-sports-2",
       "name": "Premier Sports 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/premier-sports-2.webp",
@@ -2513,7 +2513,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-action",
       "name": "Sky Sports Action",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-action.webp",
@@ -2521,7 +2521,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-arena",
       "name": "Sky Sports Arena",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-arena.webp",
@@ -2529,7 +2529,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-cricket",
       "name": "Sky Sports Cricket",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-cricket.webp",
@@ -2537,7 +2537,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-f1",
       "name": "Sky Sports F1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1.webp",
@@ -2545,7 +2545,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-football",
       "name": "Sky Sports Football",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-football.webp",
@@ -2553,7 +2553,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-golf",
       "name": "Sky Sports Golf",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf.webp",
@@ -2561,7 +2561,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-main-event",
       "name": "Sky Sports Main Event",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event.webp",
@@ -2569,7 +2569,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-mix",
       "name": "Sky Sports Mix",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix.webp",
@@ -2577,7 +2577,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-premier-league",
       "name": "Sky Sports Premier League",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-premier-league.webp",
@@ -2585,7 +2585,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-racing",
       "name": "Sky Sports Racing",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-racing.webp",
@@ -2593,7 +2593,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sky-sports-tennis",
       "name": "Sky Sports Tennis",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-tennis.webp",
@@ -2601,7 +2601,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt-sports-1",
       "name": "TNT Sports 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1.webp",
@@ -2609,7 +2609,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt-sports-2",
       "name": "TNT Sports 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-2.webp",
@@ -2617,7 +2617,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt-sports-3",
       "name": "TNT Sports 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-3.webp",
@@ -2625,7 +2625,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt-sports-4",
       "name": "TNT Sports 4",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-4.webp",
@@ -2633,7 +2633,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt-sports-5",
       "name": "TNT Sports 5",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-5.webp",
@@ -2641,7 +2641,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt-sports-6",
       "name": "TNT Sports 6",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-6.webp",
@@ -2649,7 +2649,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt-sports-8",
       "name": "TNT Sports 8",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-8.webp",
@@ -2657,7 +2657,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "viaplay-sports-1",
       "name": "Viaplay Sports 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1.webp",
@@ -2665,7 +2665,7 @@
     },
     {
       "category": "United Kingdom",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "viaplay-sports-2",
       "name": "Viaplay Sports 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-2.webp",
@@ -2673,7 +2673,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nhl-11",
       "name": ":NHL  11",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-11.webp",
@@ -2681,7 +2681,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "abc",
       "name": "ABC",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc.webp",
@@ -2689,7 +2689,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "acc-network",
       "name": "ACC Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/acc-network.webp",
@@ -2697,7 +2697,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "altitude",
       "name": "Altitude",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/altitude.webp",
@@ -2705,7 +2705,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "arizona-diamondbacks",
       "name": "Arizona Diamondbacks",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/arizona-diamondbacks.webp",
@@ -2713,7 +2713,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "astro-cricket",
       "name": "Astro Cricket",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-cricket.webp",
@@ -2721,7 +2721,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "atlanta-braves",
       "name": "Atlanta Braves",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/atlanta-braves.webp",
@@ -2729,7 +2729,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "baltimore-orioles",
       "name": "Baltimore Orioles",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/baltimore-orioles.webp",
@@ -2737,7 +2737,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bbc",
       "name": "BBC",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bbc.webp",
@@ -2745,7 +2745,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports",
       "name": "beIN SPORTS",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports.webp",
@@ -2753,7 +2753,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-1",
       "name": "beIN SPORTS 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-1.webp",
@@ -2761,7 +2761,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-2",
       "name": "beIN SPORTS 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-2.webp",
@@ -2769,7 +2769,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bein-sports-3",
       "name": "beIN SPORTS 3",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-3.webp",
@@ -2777,7 +2777,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "bet",
       "name": "BET",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bet.webp",
@@ -2785,7 +2785,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "boston-red-sox",
       "name": "Boston Red Sox",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/boston-red-sox.webp",
@@ -2793,7 +2793,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cbs",
       "name": "CBS",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs.webp",
@@ -2801,7 +2801,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cbs-sports-golazo",
       "name": "CBS Sports Golazo",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-sports-golazo.webp",
@@ -2809,7 +2809,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "chicago-cubs",
       "name": "Chicago Cubs",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-cubs.webp",
@@ -2817,7 +2817,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "chicago-sports-network",
       "name": "Chicago Sports Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-sports-network.webp",
@@ -2825,7 +2825,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "chicago-white-sox",
       "name": "Chicago White Sox",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-white-sox.webp",
@@ -2833,7 +2833,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cincinnati-reds",
       "name": "Cincinnati Reds",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cincinnati-reds.webp",
@@ -2841,7 +2841,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cinemax",
       "name": "Cinemax",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cinemax.webp",
@@ -2849,7 +2849,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cleveland-guardians",
       "name": "Cleveland Guardians",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cleveland-guardians.webp",
@@ -2857,7 +2857,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cnbc",
       "name": "CNBC",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnbc.webp",
@@ -2865,7 +2865,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "cnn",
       "name": "CNN",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnn.webp",
@@ -2873,7 +2873,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "colorado-rockies",
       "name": "Colorado Rockies",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/colorado-rockies.webp",
@@ -2881,7 +2881,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "detroit-tigers",
       "name": "Detroit Tigers",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/detroit-tigers.webp",
@@ -2889,7 +2889,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "discovery-channel",
       "name": "Discovery Channel",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/discovery-channel.webp",
@@ -2897,7 +2897,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "disney-channel",
       "name": "Disney Channel",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/disney-channel.webp",
@@ -2905,7 +2905,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-2",
       "name": "ESPN 2",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-2.webp",
@@ -2913,7 +2913,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-deportes",
       "name": "ESPN Deportes",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-deportes.webp",
@@ -2921,7 +2921,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-news",
       "name": "ESPN News",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-news.webp",
@@ -2929,7 +2929,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-u",
       "name": "ESPN U",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-u.webp",
@@ -2937,7 +2937,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "espn-usa",
       "name": "ESPN+ USA",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-usa.webp",
@@ -2945,7 +2945,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox",
       "name": "FOX",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox.webp",
@@ -2953,7 +2953,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-deportes",
       "name": "FOX Deportes",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-deportes.webp",
@@ -2961,7 +2961,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-news",
       "name": "FOX News",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-news.webp",
@@ -2969,7 +2969,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-soccer-plus",
       "name": "FOX Soccer Plus",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.webp",
@@ -2977,7 +2977,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "fox-sports-1",
       "name": "FOX Sports 1",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1.webp",
@@ -2985,7 +2985,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "golf-tv",
       "name": "GOLF TV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-tv.webp",
@@ -2993,7 +2993,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "hallmark",
       "name": "Hallmark",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/hallmark.webp",
@@ -3001,7 +3001,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "hbo",
       "name": "HBO",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/hbo.webp",
@@ -3009,7 +3009,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "history",
       "name": "History",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/history.webp",
@@ -3017,7 +3017,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "houston-astros",
       "name": "Houston Astros",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/houston-astros.webp",
@@ -3025,7 +3025,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "kansas-city-royals",
       "name": "Kansas City Royals",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/kansas-city-royals.webp",
@@ -3033,7 +3033,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "lifetime",
       "name": "Lifetime",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/lifetime.webp",
@@ -3041,7 +3041,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "los-angeles-angels",
       "name": "Los Angeles Angels",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/los-angeles-angels.webp",
@@ -3049,7 +3049,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "los-angeles-dodgers",
       "name": "Los Angeles Dodgers",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/los-angeles-dodgers.webp",
@@ -3057,7 +3057,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "marquee-sports-network",
       "name": "Marquee Sports Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network.webp",
@@ -3065,7 +3065,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "masn",
       "name": "MASN",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn.webp",
@@ -3073,7 +3073,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "max",
       "name": "MAX",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/max.webp",
@@ -3081,7 +3081,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "miami-marlins",
       "name": "Miami Marlins",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/miami-marlins.webp",
@@ -3089,7 +3089,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "milwaukee-brewers",
       "name": "Milwaukee Brewers",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/milwaukee-brewers.webp",
@@ -3097,7 +3097,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "minnesota-twins",
       "name": "Minnesota Twins",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/minnesota-twins.webp",
@@ -3105,7 +3105,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "mlb-network",
       "name": "MLB Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network.webp",
@@ -3113,7 +3113,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "monumental-sports-network",
       "name": "Monumental Sports Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/monumental-sports-network.webp",
@@ -3121,7 +3121,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "msg",
       "name": "MSG",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/msg.webp",
@@ -3129,7 +3129,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "national-geographic",
       "name": "National Geographic",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/national-geographic.webp",
@@ -3137,7 +3137,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nba-tv",
       "name": "NBA TV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv.webp",
@@ -3145,7 +3145,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nbc",
       "name": "NBC",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc.webp",
@@ -3153,7 +3153,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nbc-universo",
       "name": "NBC Universo",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-universo.webp",
@@ -3161,7 +3161,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nesn",
       "name": "NESN",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn.webp",
@@ -3169,7 +3169,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "new-york-mets",
       "name": "New York Mets",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/new-york-mets.webp",
@@ -3177,7 +3177,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "new-york-yankees",
       "name": "New York Yankees",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/new-york-yankees.webp",
@@ -3185,7 +3185,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nfl-network",
       "name": "NFL Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network.webp",
@@ -3193,7 +3193,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nhl-network",
       "name": "NHL Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-network.webp",
@@ -3201,7 +3201,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nhl-uhd-us",
       "name": "NHL UHD US",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-uhd-us.webp",
@@ -3209,7 +3209,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nhl-anaheim-ducks",
       "name": "NHL | ANAHEIM DUCKS",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nhl-anaheim-ducks.webp",
@@ -3217,7 +3217,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "nickelodeon-tv",
       "name": "Nickelodeon TV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nickelodeon-tv.webp",
@@ -3225,7 +3225,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "oakland-athletics",
       "name": "Oakland Athletics",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/oakland-athletics.webp",
@@ -3233,7 +3233,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "philadelphia-phillies",
       "name": "Philadelphia Phillies",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/philadelphia-phillies.webp",
@@ -3241,7 +3241,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "pittsburgh-pirates",
       "name": "Pittsburgh Pirates",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/pittsburgh-pirates.webp",
@@ -3249,7 +3249,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "red-bull",
       "name": "Red Bull",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/red-bull.webp",
@@ -3257,7 +3257,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "san-diego-padres",
       "name": "San Diego Padres",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/san-diego-padres.webp",
@@ -3265,7 +3265,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "san-francisco-giants",
       "name": "San Francisco Giants",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/san-francisco-giants.webp",
@@ -3273,7 +3273,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "seattle-mariners",
       "name": "Seattle Mariners",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/seattle-mariners.webp",
@@ -3281,7 +3281,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sec-network",
       "name": "SEC Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sec-network.webp",
@@ -3289,7 +3289,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "showtime",
       "name": "Showtime",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/showtime.webp",
@@ -3297,7 +3297,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "space-city-home-network",
       "name": "Space City Home Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/space-city-home-network.webp",
@@ -3305,7 +3305,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "sportsnet-new-york",
       "name": "SportsNet New York",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york.webp",
@@ -3313,7 +3313,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "st-louis-cardinals",
       "name": "St. Louis Cardinals",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/st-louis-cardinals.webp",
@@ -3321,7 +3321,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tampa-bay-rays",
       "name": "Tampa Bay Rays",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tampa-bay-rays.webp",
@@ -3329,7 +3329,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tbs",
       "name": "TBS",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tbs.webp",
@@ -3337,7 +3337,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "telemundo",
       "name": "Telemundo",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/telemundo.webp",
@@ -3345,7 +3345,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tennis-channel",
       "name": "Tennis Channel",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tennis-channel.webp",
@@ -3353,7 +3353,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "texas-rangers",
       "name": "Texas Rangers",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/texas-rangers.webp",
@@ -3361,7 +3361,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tlc",
       "name": "TLC",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tlc.webp",
@@ -3369,7 +3369,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tnt",
       "name": "TNT",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt.webp",
@@ -3377,7 +3377,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "toronto-blue-jays",
       "name": "Toronto Blue Jays",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/toronto-blue-jays.webp",
@@ -3385,7 +3385,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "travel-channel",
       "name": "Travel Channel",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/travel-channel.webp",
@@ -3393,7 +3393,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "trutv",
       "name": "truTV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/trutv.webp",
@@ -3401,7 +3401,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tudn",
       "name": "TUDN",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tudn.webp",
@@ -3409,7 +3409,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "tv-one",
       "name": "TV ONE",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tv-one.webp",
@@ -3417,7 +3417,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "universal-kids",
       "name": "Universal Kids",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/universal-kids.webp",
@@ -3425,7 +3425,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "univision",
       "name": "Univision",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/univision.webp",
@@ -3433,7 +3433,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "usa-network",
       "name": "USA Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network.webp",
@@ -3441,7 +3441,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "willow-cricket",
       "name": "Willow Cricket",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket.webp",
@@ -3449,7 +3449,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "wwe",
       "name": "WWE",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/wwe.webp",
@@ -3457,7 +3457,7 @@
     },
     {
       "category": "United States",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "yes-network",
       "name": "Yes Network",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network.webp",
@@ -3465,7 +3465,7 @@
     },
     {
       "category": "Uruguay",
-      "codec": "hard",
+      "codec": "external",
       "epg_id": "vtv",
       "name": "VTV",
       "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/uy/vtv.webp",
