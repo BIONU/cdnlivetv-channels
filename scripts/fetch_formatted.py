@@ -48,7 +48,7 @@ def build_output(channels_data):
         
         formatted_channels.append({
             "category": category_name,
-            "codec": "hard",
+            "codec": "external",
             "epg_id": slugify(name),
             "name": name,
             "icon": image,
