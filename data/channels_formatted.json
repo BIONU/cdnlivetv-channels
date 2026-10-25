@@ -3,11 +3,37 @@
     "name": "CDN Live TV",
     "website": "https://cdnlivetv.tv",
     "source_api": "https://api.cdnlivetv.tv/api/v1/channels/?user=cdnlivetv&plan=free",
-    "fetched_at": "2026-10-25T00:37:49.629266+00:00",
-    "total_categories": 0,
-    "total_channels": 0,
-    "skipped_channels": 1
+    "fetched_at": "2026-10-25T05:26:23.124359+00:00",
+    "total_categories": 2,
+    "total_channels": 2,
+    "skipped_channels": 403
   },
-  "categories": {},
-  "channels": []
+  "categories": {
+    "Russia": {
+      "name": "Russia",
+      "icon": "https://flagcdn.com/w80/ru.png"
+    },
+    "United States": {
+      "name": "United States",
+      "icon": "https://flagcdn.com/w80/us.png"
+    }
+  },
+  "channels": [
+    {
+      "category": "Russia",
+      "codec": "external",
+      "epg_id": "russia-1-ru",
+      "name": "Russia 1 RU",
+      "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/russia/russia-1-ru.webp",
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=Russia%201%20RU&code=ru&user=cdnlivetv&plan=free"
+    },
+    {
+      "category": "United States",
+      "codec": "external",
+      "epg_id": "usa-network-us",
+      "name": "USA Network US",
+      "icon": "https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-us.webp",
+      "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free"
+    }
+  ]
 }
