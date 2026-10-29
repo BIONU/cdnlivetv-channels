@@ -3,7 +3,7 @@
     "name": "CDN Live TV",
     "website": "https://cdnlivetv.tv",
     "source_api": "https://api.cdnlivetv.tv/api/v1/channels/?user=cdnlivetv&plan=free",
-    "fetched_at": "2026-10-28T23:47:08.560680+00:00",
+    "fetched_at": "2026-10-29T03:08:07.636284+00:00",
     "total_categories": 2,
     "total_channels": 2,
     "skipped_channels": 403
